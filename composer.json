@@ -1,0 +1,16 @@
+{
+    "name": "limdong/firebase",
+    "description": "php + firebase(Realtime Database)",
+    "autoload": {
+        "psr-4": {
+            "Limdong\\Firebase\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LimDong",
+            "email": "50188317+Limdongdang@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
