@@ -12,5 +12,7 @@
             "email": "50188317+Limdongdang@users.noreply.github.com"
         }
     ],
-    "require": {}
+    "require": {
+        "kreait/firebase-php": "^7.0"
+    }
 }
